@@ -5,3 +5,5 @@ Everyone scrambled for their smartphones.
 Unfortunately with no reception, location based services would not work.
 "Did anyone bring a map?" one of them asked.
 "Nope. I figured my smartphone would work everywhere we went."
+One person, opened the compass app on his smartphone.
+However, with no latitude or longitude information, the compass was useless.
