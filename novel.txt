@@ -8,3 +8,4 @@ Unfortunately with no reception, location based services would not work.
 One person, opened the compass app on his smartphone.
 However, with no latitude or longitude information, the compass was useless.
 "I'm thirsty," said another.
+"We have to figure out to get out of here before it is too late!" he said
