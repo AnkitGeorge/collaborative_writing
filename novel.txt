@@ -7,3 +7,4 @@ Unfortunately with no reception, location based services would not work.
 "Nope. I figured my smartphone would work everywhere we went."
 One person, opened the compass app on his smartphone.
 However, with no latitude or longitude information, the compass was useless.
+"I'm thirsty," said another.
